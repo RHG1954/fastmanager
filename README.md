@@ -1,15 +1,22 @@
-#FASTMANAGER 22.7
+             #FASTMANAGER 22.7
 
-USERNAME : admin
-PASSWORD : rhg2022
+             USERNAME : admin
+             PASSWORD : rhg2022
 
 
-C://FASTMANAGER |
-                ----------- img 
-                |
-                ----------- fastmanager
-                |
-                ----------- student 
+             C://FASTMANAGER |
+           
+             ----------- img 
+                
+             
+           
+            
+             ----------- fastmanager
+            
+            
+            
+            
+             ----------- student 
                 
                 
             
