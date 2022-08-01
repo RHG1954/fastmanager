@@ -12,8 +12,10 @@ C://FASTMANAGER |
                 ----------- student 
                 
                 
-Coded by RHG1954 
-EMAIL: ryangraichi255@gmail.com
+            
+           Coded by RHG1954 
+           
+           EMAIL: ryangraichi255@gmail.com
            
            THANKS
         
