@@ -4,19 +4,19 @@
              PASSWORD : rhg2022
 
 
-             C://FASTMANAGER |
-           
-             ----------- img 
-                
-             
-           
-            
-             ----------- fastmanager
-            
-            
-            
-            
-             ----------- student 
+            C://FASTMANAGER ---|
+                               |
+                               ----------- img 
+                               |
+                               |
+                               |
+                               |
+                               |----------- fastmanager
+                               |
+                               |
+                               |
+                               |
+                               |----------- student 
                 
                 
             
