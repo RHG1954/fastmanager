@@ -27,4 +27,4 @@
            
            THANKS
         
-<img src="https://github.com/RHG1954/fastmanager/blob/main/UPLOAD/Untitled2.png" width="100" >
+<img src="https://github.com/RHG1954/fastmanager/blob/main/UPLOAD/Untitled2.png" width="350" >
